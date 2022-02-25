@@ -15,7 +15,18 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## IOS
+
 ![Alt-Text](/screenshots/destini_ios.png)
+
+## Android
+
 ![Alt-Text](/screenshots/destini_android.png)
+
+## MACOS
+
 ![Alt-Text](/screenshots/destini_macos.png)
+
+## WINDOWS
+
 ![Alt-Text](/screenshots/destini_windows.png)
