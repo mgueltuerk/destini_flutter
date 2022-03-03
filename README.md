@@ -17,20 +17,20 @@ samples, guidance on mobile development, and a full API reference.
 
 ## IOS
 
-![Alt-Text](/screenshots/destini_ios.png)
+![Alt-Text](/screenshots/destini_ios_.png)
 
 ## Android
 
-![Alt-Text](/screenshots/destini_android.png)
+![Alt-Text](/screenshots/destini_android_.png)
 
 ## MACOS
 
-![Alt-Text](/screenshots/destini_macos.png)
+![Alt-Text](/screenshots/destini_macos_.png)
 
 ## WINDOWS
 
-![Alt-Text](/screenshots/destini_windows.png)
+![Alt-Text](/screenshots/destini_windows_.png)
 
 ## WEB
 
-![Alt-Text](/screenshots/destini_web.png)
+![Alt-Text](/screenshots/destini_web_.png)
