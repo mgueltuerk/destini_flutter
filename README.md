@@ -29,7 +29,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## WINDOWS
 
-![Alt-Text](/screenshots/destini_windows_.png)
+![Alt-Text](/screenshots/destini_windows.png)
 
 ## WEB
 
