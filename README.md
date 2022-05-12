@@ -1,4 +1,4 @@
-# Destini-Flutter
+# Destini
 
 A new Flutter Cross-Platform project.
 
